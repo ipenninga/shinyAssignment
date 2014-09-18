@@ -1,0 +1,4 @@
+shinyAssignment
+===============
+
+First Shiny application
